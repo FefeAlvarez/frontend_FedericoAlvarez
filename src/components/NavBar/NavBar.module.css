@@ -1,0 +1,43 @@
+.activeCategory {
+  color: var(--orange);
+  font-weight: bold;
+  opacity: 1;
+  text-decoration: none;
+}
+.categories {
+  align-items: center;
+  display: flex;
+  gap: 1em;
+  justify-content: center;
+}
+
+.category {
+  color: var(--black);
+  opacity: 0.4;
+  text-decoration: none;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+}
+
+.logoIcon {
+  height: 24px;
+}
+
+.logoText {
+  color: var(--black);
+  font-weight: bold;
+  margin: 0;
+}
+.navbar {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+  width: 100%;
+}

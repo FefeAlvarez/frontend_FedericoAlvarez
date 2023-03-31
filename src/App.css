@@ -1,0 +1,12 @@
+.App {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	min-height: 100vh;
+	text-align: center;
+}
+.appTitle {
+	font-size: 3em;
+	text-align: center;
+}

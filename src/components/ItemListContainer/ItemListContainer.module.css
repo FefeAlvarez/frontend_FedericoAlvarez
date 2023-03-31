@@ -1,0 +1,14 @@
+.itemListContainer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 1em;
+}
+
+.title {
+  color: var(--orange);
+  padding: 1em;
+  font-size: 2em;
+  margin: 10;
+}
